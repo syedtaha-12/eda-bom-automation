@@ -1,0 +1,5 @@
+R1,Resistor,10k,0603
+R2,Resistor,10k,0603
+C1,Capacitor,100nF,0603
+C2,Capacitor,100nF,0603
+U1,Microcontroller,STM32,QFP64
