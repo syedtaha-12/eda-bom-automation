@@ -19,7 +19,7 @@ The script reads component records from a file and automatically groups identica
 
 ## Example Input
 
-File: `pcb_components.txt`
+File: `PCB_components.txt`
 R1,Resistor,10k,0603
 R2,Resistor,10k,0603
 C1,Capacitor,100nF,0603
@@ -91,7 +91,7 @@ git clone https://github.com/YOUR_USERNAME/eda-bom-automation.git
 cd eda-bom-automation
 
 3. Run the script:
-python generate_bom.py
+python BOM_generation.py
 
 ## Possible Improvements
 
