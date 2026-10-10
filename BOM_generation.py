@@ -1,6 +1,6 @@
 bom = {}
 
-with open("pcb_components.txt") as f:
+with open("PCB_components.txt") as f:
     for line in f:
         line = line.strip()
         parts = line.split(",")
