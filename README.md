@@ -67,15 +67,6 @@ This demonstrates a common automation pattern used in engineering workflows.
 
 The script automatically counts identical components based on their type, value, and footprint.
 
-## How It Works
-
-1. The script reads the component file line by line.
-2. Each line is parsed to extract component properties.
-3. A dictionary is used to group identical components.
-4. The script generates a BOM summary showing the quantity of each part.
-
-This demonstrates a common automation pattern used in engineering workflows.
-
 ## Technologies Used
 
 - Python
@@ -85,7 +76,7 @@ This demonstrates a common automation pattern used in engineering workflows.
 ## How to Run
 
 1. Clone the repository:
-git clone https://github.com/YOUR_USERNAME/eda-bom-automation.git
+git clone https://github.com/syedtaha-12/eda-bom-automation.git
 
 2. Navigate to the project folder:
 cd eda-bom-automation
