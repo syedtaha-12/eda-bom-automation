@@ -61,12 +61,6 @@ This demonstrates a common automation pattern used in engineering workflows.
 - File parsing
 - Dictionary-based data aggregation
 
-## Technologies Used
-
-- Python
-- File parsing
-- Dictionary-based data aggregation
-
 ## How to Run
 
 1. Clone the repository:
